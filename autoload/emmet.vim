@@ -1977,6 +1977,9 @@ let s:emmet_settings = {
 \        'attribute_name': {'class': 'className', 'for': 'htmlFor'},
 \        'empty_element_suffix': ' />',
 \    },
+\    'tsx': {
+\        'extends': 'jsx'
+\    },
 \    'xslt': {
 \        'extends': 'xsl',
 \    },
